@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+EntangleVR/.vsconfig
+EntangleVR/Library/
+EntangleVR/Temp/
+EntangleVR/Logs/
+EntangleVR/obj/
+
+EntangleVR/UserSettings/

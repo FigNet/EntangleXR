@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1ea140c1fb77f1409be534a92fc5299, type: 3}
+  m_Name: EntangleContainer
+  m_EditorClassIdentifier: 
+  MyPlayer: {fileID: 55230126996416674, guid: 284f715048b11bf429d0c27a4e8efb89, type: 3}
+  RemotePlayer: {fileID: 284377694303903110, guid: a7c74503279e8f947904bea7e3a8471a,
+    type: 3}
+  Entities:
+  - {fileID: 4658045555432202367, guid: 0590bae7f2fe2a84588286bcb3059866, type: 3}
+  - {fileID: 6525969786414314566, guid: f993ffe75ab80074b9faa9833ae4491b, type: 3}
